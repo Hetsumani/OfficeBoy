@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    /*center the content of flex container*/
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #000;
+}
+
+#officeBoyGame{
+    aspect-ratio: 16/9;
+    height: 100%;
+    width: auto;
+    
+    background-color: #042940;
+}
